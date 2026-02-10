@@ -12,6 +12,7 @@ End-to-end automation pipeline for Amazon affiliate workflow:
 
 ## Architecture
 
+```
 Frontend (Vue + Vuetify)
 ↓
 FastAPI API
@@ -21,9 +22,7 @@ Service layer
 Amazon Adapter (mock/live)
 ↓
 SQLite
-
-yaml
-Копировать код
+```
 
 System designed to support mock execution and real Amazon PA-API/report ingestion.
 
@@ -44,3 +43,5 @@ See:
 
 - backend/README.md
 - frontend/README.md
+
+## Overview video link:
