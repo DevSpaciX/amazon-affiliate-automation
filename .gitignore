@@ -1,0 +1,20 @@
+# mac
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
+backend/.venv/
+backend/app.db
+backend/.env
+
+# node
+frontend/node_modules/
+frontend/dist/
+
+# ide
+.vscode/
+.idea/
+
+# logs
+*.log
